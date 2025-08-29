@@ -1,0 +1,5 @@
+{
+  "name": "Jukto",
+  "description": "Jukto is an AI-powered tool to generate complete, ready-to-use browser extensions from a simple text description. Describe your idea and let Gemini build the code for you.",
+  "requestFramePermissions": []
+}
